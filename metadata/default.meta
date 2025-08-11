@@ -1,0 +1,6 @@
+# Application-level permissions
+
+[]
+access = read : [ admin, team-kai-analyst, team-kai-lead, power ], write : [ admin, team-kai-analyst, team-kai-lead, power ]
+export = none
+owner = admin
